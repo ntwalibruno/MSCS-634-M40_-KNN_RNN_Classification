@@ -91,6 +91,3 @@ pip install scikit-learn pandas matplotlib
 
 This project demonstrates that KNN is preferable for the Wine dataset, as it achieves higher accuracy and is less sensitive to parameter changes. KNN works well when the data is well-clustered and classes are balanced, while RNN may be better suited for datasets with varying density or when explicit control over the influence region is needed.
 
-## License
-
-This project is available under the MIT License.
